@@ -80,6 +80,18 @@ footer,
   }
 }
 
+.contacticon {
+    display: block;
+    font-size: 60px;
+    margin: 10px;
+}
+
+.social {
+    border-top: 1px solid $grey-color-light;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
 footer {
   font-family: $serif-secondary;
   padding: 2rem 0;

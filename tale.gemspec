@@ -12,9 +12,12 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
+  spec.add_runtime_dependency "github-pages", "~> 182"
   spec.add_runtime_dependency "jekyll", "~> 3.6"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
-
+  spec.add_runtime_dependency "jekyll-email-protect", "~> 1.0", ">= 1.0.3"
+  spec.add_runtime_dependency "jekyll-scholar", "~> 5.13"
+  spec.add_runtime_dependency "jemoji", "~> 0.9.0"
   spec.add_development_dependency "bundler", "~> 1.12"
   spec.add_development_dependency "rake", "~> 10.0"
 end

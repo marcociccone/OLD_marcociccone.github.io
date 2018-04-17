@@ -1,17 +1,49 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Neural Tamer
+description:    "Loss is the new black"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://marcociccone.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Marco Ciccone
+  url:          https://marcociccone.github.io
+  email:        marco.ciccone@polimi.it
+  github:       marcociccone
+  twitter:      marcuswallacej
+  linkedin:     cicconemarco
+  scholar:      hOQjblcAAAAJ
+
+contact_note: If you want to discuss about research ideas and opportunities, please drop me an email
+
+# Comments
+disqus_shortname: neural-tamer # put your disqus shortname
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
+# highlighter: pygments
+
+# Includes
+include: ['_pages']
 
 # Assets
 sass:
@@ -21,7 +53,44 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll/scholar
+  - jemoji
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+enable_anchorjs:    false
+enable_katex:       true
+
+# Jekyll-Scholar
+scholar:
+
+  last_name: Ciccone
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"
