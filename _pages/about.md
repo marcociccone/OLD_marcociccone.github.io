@@ -4,8 +4,8 @@ title: "About me"
 author: "Marcus"
 permalink: /about/
 ---
-I’m a second year PhD student at Politecnico di Milano advised by [Prof. Matteo
-Matteucci](https://scholar.google.it/citations?user=PdbEg5YAAAAJ&hl=en).
+I’m currently a second year PhD student at Politecnico di Milano advised by
+[Prof. Matteo Matteucci](https://scholar.google.it/citations?user=PdbEg5YAAAAJ&hl=en).
 
 My background is specifically into Signal Processing and Machine Learning. At
 the beginning of my studies I was mainly interested in audio signal processing,
@@ -20,7 +20,7 @@ been proved to be also particularly sensitive to imperceptible perturbations to
 the input.  Much is still to be understood about their properties and this can
 be approached from different perspectives.  I started analyzing robustness of
 DNNs from a dynamical system point of view, and I'm now digging also into
-[Information Geometry]() and Optimization.
+[Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and Optimization.
 
 I'm also particularly interested into
 [continual learning](https://arxiv.org/abs/1612.00796),
@@ -31,4 +31,3 @@ that Information Geometry can answer many open questions also in these fields.
 ## News
 * I'll be joining NVIDIA for a Summer Internship in [Jan Kautz](http://research.nvidia.com/person/jan-kautz)'s team from August 2018.
 * I'll be visiting [Luigi Malagò](http://www.luigimalago.it/)'s group at RIST from May 2018 to July 2018.
-* New website is online!

@@ -14,6 +14,12 @@ author:
   linkedin:     cicconemarco
   scholar:      hOQjblcAAAAJ
 
+# Analytics
+analytics:
+  provider               : google
+  google:
+    tracking_id          : UA-117939428-1
+
 contact_note: If you want to discuss about research ideas and opportunities, please drop me an email
 
 # Comments

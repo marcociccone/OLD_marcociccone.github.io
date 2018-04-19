@@ -9,7 +9,7 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
+  {% include analytics.html %}
   {% if site.enable_katex %}
   <!-- Load KaTeX -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/{{ site.katex_version }}/katex.min.css">
