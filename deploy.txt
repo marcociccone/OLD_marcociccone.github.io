@@ -1,0 +1,4 @@
+kickster new .
+bin/setup
+bin/deploy
+git push -f deploy gh-pages:master
