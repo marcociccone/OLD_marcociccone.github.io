@@ -7,14 +7,14 @@
     <nav class="nav">
       <!-- Site Name -->
       <div class="nav-container">
-        <a href="{{ '/about' | prepend: site.baseurl }}">
+        <a href="{{ '/about/' | prepend: site.url }}">
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul>
-          <li><a href="{{ '/about/'  | prepend: site.baseurl | prepend: site.url }}">About</a></li>
-          <li><a href="{{ site.baseurl }}/">Blog</a></li>
-          <li><a href="{{ '/publications/'  | prepend: site.baseurl | prepend: site.url }}">Publications</a></li>
-          <li><a href="{{ '/teaching/'  | prepend: site.baseurl | prepend: site.url }}">Teaching</a></li>
+          <li><a href="{{ '/about/' | prepend: site.url }}">About</a></li>
+          <li><a href="{{ site.url }}/">Blog</a></li>
+          <li><a href="{{ '/publications/' | prepend: site.url }}">Publications</a></li>
+          <li><a href="{{ '/teaching/' | prepend: site.url }}">Teaching</a></li>
         </ul>
     </div>
   </nav>

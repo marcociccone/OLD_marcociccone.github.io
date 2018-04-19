@@ -1,7 +1,7 @@
 # Site settings
 title:          Neural Tamer
 description:    "Loss is the new black"
-baseurl:        "/tale"
+baseurl:        "/"
 url:            "https://marcociccone.github.io"
 
 # Author
