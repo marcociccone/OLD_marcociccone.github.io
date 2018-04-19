@@ -4,16 +4,18 @@ title: "New website and resolutions"
 author: "Marcus"
 ---
 
-When I started my engineering studies I always found very hard to grasp
-mathematical concepts without any intuition. Sometimes the best way to explain
-the meaning of formula  to someone is to give him a practical example.
+I've always found it very hard to grasp mathematical concepts without any
+intuition. I believe that the best way to explain the meaning of a formula, or
+to interpret the results of some experiments, is to find a practical example
+that clarify things. Since I started my Phd I was looking for the most efficient
+way to track both my work and my interests.
 
-As curious individual as I am, I was looking for the most efficient way to track both
-my work and my interests. I decided to use a blog because it is a good
-exercise to practice writing. I'm following the example of many other
-researchers that are spreading the knowledge of AI by explaining their work in a
-appealing and easy way. I hope that summarizing other researchers' work and mine
-would help me in the process of becoming a better scientist and at the same time
-help create the necessary entropy to develop new ideas!
+Following the example of many other researchers that are spreading the knowledge
+of AI, I decided to use a blog because it is a good exercise to practice with my
+writing and to learn how to explain a work in a appealing and easy way. I believe
+that summarizing  mine and other researchers' work would help me in the process
+of becoming a better scientist and, at the same time, create the necessary
+entropy to develop new ideas!
 
+Hope it's gonna be fun!
 Thanks for reading!
