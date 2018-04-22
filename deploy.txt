@@ -1,3 +1,4 @@
+JEKYLL_ENV=production
 kickster new .
 bin/setup
 bin/deploy
