@@ -29,5 +29,6 @@ I'm also particularly interested into
 that Information Geometry can answer many open questions also in these fields.
 
 ## News
+* Our paper ["NAIS-Net: Stable Deep Networks from Non-Autonomous Differential Equations"](https://arxiv.org/abs/1804.07209) has been accepted for poster presentation at [NIPS conference 2018](https://nips.cc/Conferences/2018/Schedule?showEvent=11308). See you in Montreal!
 * I'll be joining NVIDIA for a Summer Internship in [Jan Kautz](http://research.nvidia.com/person/jan-kautz)'s team from August 2018.
 * I'll be visiting [Luigi Malagò](http://www.luigimalago.it/)'s group at RIST from May 2018 to July 2018.

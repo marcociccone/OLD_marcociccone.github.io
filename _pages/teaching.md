@@ -4,6 +4,8 @@ permalink: /teaching/
 title: Teaching
 description: Materials and News about my courses.
 ---
+## Talks
+* [Seminar on Adversarial Examples]({{"/assets/downloads/talks/Adversarial Examples.pdf" | relative_url }})
 
 ## Deep Learning 2017/2018 (Phd)
 * [TensorFlow 101]({{"/assets/downloads/dl2018/[DL2018] TF101.pdf" | relative_url }})
